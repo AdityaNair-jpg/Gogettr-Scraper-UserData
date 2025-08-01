@@ -1,0 +1,262 @@
+[
+    {
+        "udate": 1753983188303,
+        "_t": "post",
+        "cdate": 1753983073676,
+        "receiver_id": "gettr",
+        "activity": {
+            "cdate": 1753983073677,
+            "init_id": "gettr",
+            "init_lvl": "4",
+            "src_type": "u",
+            "src_id": "gettr",
+            "action": "pub_pst",
+            "tgt_type": "post",
+            "tgt_id": "p3nv42q58b5",
+            "tgt_oid": "gettr",
+            "tgt_lvl": 0,
+            "pstid": "p3nv42q58b5",
+            "uid": "gettr",
+            "_id": "agsp8ce1118c"
+        },
+        "_id": "p3nv42q58b5",
+        "action": "pub_pst",
+        "acl": {
+            "_t": "acl"
+        },
+        "txt": "🏛️WATCH LIVE from The White House -\n🎙️ Press Secretary Karoline Leavitt Briefs Members of the Media, July 31, 2025\nhttps://gettr.com/streaming/p3nuzn7f1ed\nWith LIVE Captions in 15 languages.\n",
+        "rich_txt": {
+            "ops": [
+                {
+                    "insert": "🏛️WATCH LIVE from The White House -\n🎙️ Press Secretary Karoline Leavitt Briefs Members of the Media, July 31, 2025\n"
+                },
+                {
+                    "attributes": {
+                        "link": "https://gettr.com/streaming/p3nuzn7f1ed"
+                    },
+                    "insert": "https://gettr.com/streaming/p3nuzn7f1ed"
+                },
+                {
+                    "insert": "\nWith LIVE Captions in 15 languages."
+                },
+                {
+                    "insert": "\n"
+                }
+            ]
+        },
+        "htgs": [],
+        "utgs": [],
+        "vtgs": [],
+        "prevsrc": "https://gettr.com/streaming/p3nuzn7f1ed",
+        "previmg": "https://media.gettr.com/group6/getter/2025/07/31/17/3eace6a6-c77f-3d94-dbe3-130496e88a6c/6a13028031d84b5b29e037d9476cc78f_500x0.jpeg",
+        "ttl": "Capitol Cast on GETTR : LIVE: Press Secretary Karoline Leavitt Briefs Members of the Media, July 31, 2025",
+        "dsc": "LIVE: Press Secretary Karoline Leavitt Briefs Members of the Media, July 31, 2025",
+        "txt_lang": "en",
+        "sound_ids": [],
+        "sticker_ids": [],
+        "uid": "gettr",
+        "translates": {
+            "zh-Hans": {
+                "pstid": "p3nv42q58b5",
+                "uid": "gettr",
+                "translatedDate": 1753983392718,
+                "sourceLang": "en",
+                "targetLang": "zh-Hans",
+                "translatedPath": "https://cdn.gettr.com/translatepost/zh-Hans/p3nv42q58b5_1753983392453.json"
+            },
+            "ja": {
+                "pstid": "p3nv42q58b5",
+                "uid": "gettr",
+                "translatedDate": 1753984178505,
+                "sourceLang": "en",
+                "targetLang": "ja",
+                "translatedPath": "https://cdn.gettr.com/translatepost/ja/p3nv42q58b5_1753984178251.json"
+            },
+            "zh-Hant": {
+                "pstid": "p3nv42q58b5",
+                "uid": "gettr",
+                "translatedDate": 1753984579441,
+                "sourceLang": "en",
+                "targetLang": "zh-Hant",
+                "translatedPath": "https://cdn.gettr.com/translatepost/zh-Hant/p3nv42q58b5_1753984578900.json"
+            },
+            "pt": {
+                "pstid": "p3nv42q58b5",
+                "uid": "gettr",
+                "translatedDate": 1753987449853,
+                "sourceLang": "en",
+                "targetLang": "pt",
+                "translatedPath": "https://cdn.gettr.com/translatepost/pt/p3nv42q58b5_1753987449656.json"
+            }
+        },
+        "lkbpst": 66,
+        "cm": 3,
+        "shbpst": 15,
+        "vfpst": 142,
+        "txt_hist": [
+            {
+                "txt": "🏛️WATCH LIVE from The White House -\n🎙️ Press Secretary Karoline Leavitt Briefs Members of the Media, July 31, 2025\nhttps://gettr.com/streaming/p3nuzn7f1ed\n",
+                "rich_txt": {
+                    "ops": [
+                        {
+                            "insert": "🏛️WATCH LIVE from The White House -\n🎙️ Press Secretary Karoline Leavitt Briefs Members of the Media, July 31, 2025\n"
+                        },
+                        {
+                            "attributes": {
+                                "link": "https://gettr.com/streaming/p3nuzn7f1ed"
+                            },
+                            "insert": "https://gettr.com/streaming/p3nuzn7f1ed"
+                        },
+                        {
+                            "insert": "\n"
+                        }
+                    ]
+                },
+                "txt_lang": "en",
+                "retired": 1753983188303
+            }
+        ]
+    },
+    {
+        "udate": 1753977116044,
+        "_t": "post",
+        "cdate": 1753977116044,
+        "receiver_id": "gettr",
+        "activity": {
+            "cdate": 1753977116047,
+            "init_id": "gettr",
+            "init_lvl": "4",
+            "src_type": "u",
+            "src_id": "gettr",
+            "action": "pub_pst",
+            "tgt_type": "post",
+            "tgt_id": "p3nv0g0ceaa",
+            "tgt_oid": "gettr",
+            "tgt_lvl": 0,
+            "pstid": "p3nv0g0ceaa",
+            "uid": "gettr",
+            "media": true,
+            "_id": "agsnq6zn22f7"
+        },
+        "_id": "p3nv0g0ceaa",
+        "action": "pub_pst",
+        "acl": {
+            "_t": "acl"
+        },
+        "txt": "👏👏🇺🇸 Congratulations! 🇺🇸🎉🎉\nJoseph Kent confirmed as Director of the National Counterterrorism Center  \n“In honor of our fallen, we fight on.” Follow him @joekent16jan19 on GETTR!\n\nJuly 30, 2025, the Senate has officially confirmed former Green Beret and CIA officer Joe Kent to lead the National Counterterrorism Center (NCTC) in a 52–44 vote. Kent, a combat veteran with 11 deployments, will now oversee the nation’s efforts to detect and disrupt terrorist threats—foreign and domestic.\n\n🧠 Reporting directly to DNI Tulsi Gabbard, Kent steps into a role created post-9/11 to unify intelligence across the CIA, FBI, and DoD. His appointment marks a sharp pivot in counterterrorism strategy, with early signals pointing to a crackdown on Latin American gangs and cartel-linked networks\n",
+        "rich_txt": {
+            "ops": [
+                {
+                    "insert": "👏👏🇺🇸 Congratulations! 🇺🇸🎉🎉\nJoseph Kent confirmed as Director of the National Counterterrorism Center  \n“In honor of our fallen, we fight on.” Follow him "
+                },
+                {
+                    "attributes": {
+                        "link": "@joekent16jan19"
+                    },
+                    "insert": "@joekent16jan19"
+                },
+                {
+                    "insert": " on GETTR!\n\nJuly 30, 2025, the Senate has officially confirmed former Green Beret and CIA officer Joe Kent to lead the National Counterterrorism Center (NCTC) in a 52–44 vote. Kent, a combat veteran with 11 deployments, will now oversee the nation’s efforts to detect and disrupt terrorist threats—foreign and domestic.\n\n🧠 Reporting directly to DNI Tulsi Gabbard, Kent steps into a role created post-9/11 to unify intelligence across the CIA, FBI, and DoD. His appointment marks a sharp pivot in counterterrorism strategy, with early signals pointing to a crackdown on Latin American gangs and cartel-linked networks"
+                },
+                {
+                    "insert": "\n"
+                }
+            ]
+        },
+        "imgs": [
+            "group5/getter/2025/07/31/15/e50fc290-2e93-c02b-4ddf-d5837ad5ee0d/42f1fdba8e2207514afcc3901e2d3132.png"
+        ],
+        "main": "group5/getter/2025/07/31/15/e50fc290-2e93-c02b-4ddf-d5837ad5ee0d/42f1fdba8e2207514afcc3901e2d3132.png",
+        "vid_wid": "1080",
+        "vid_hgt": "1350",
+        "utgs": [
+            "joekent16jan19"
+        ],
+        "vtgs": [],
+        "meta": [
+            {}
+        ],
+        "txt_lang": "en",
+        "sound_ids": [],
+        "sticker_ids": [],
+        "uid": "gettr",
+        "translates": {
+            "zh-Hant": {
+                "pstid": "p3nv0g0ceaa",
+                "uid": "gettr",
+                "translatedDate": 1753977146983,
+                "sourceLang": "en",
+                "targetLang": "zh-Hant",
+                "translatedPath": "https://cdn.gettr.com/translatepost/zh-Hant/p3nv0g0ceaa_1753977146554.json"
+            },
+            "pt": {
+                "pstid": "p3nv0g0ceaa",
+                "uid": "gettr",
+                "translatedDate": 1753977175711,
+                "sourceLang": "en",
+                "targetLang": "pt",
+                "translatedPath": "https://cdn.gettr.com/translatepost/pt/p3nv0g0ceaa_1753977175448.json"
+            },
+            "en": {
+                "pstid": "p3nv0g0ceaa",
+                "uid": "gettr",
+                "translatedDate": 1753977390665,
+                "sourceLang": "en",
+                "targetLang": "en",
+                "translatedPath": "https://cdn.gettr.com/translatepost/en/p3nv0g0ceaa_1753977390578.json"
+            },
+            "zh-Hans": {
+                "pstid": "p3nv0g0ceaa",
+                "uid": "gettr",
+                "translatedDate": 1753977416443,
+                "sourceLang": "en",
+                "targetLang": "zh-Hans",
+                "translatedPath": "https://cdn.gettr.com/translatepost/zh-Hans/p3nv0g0ceaa_1753977415523.json"
+            },
+            "fr": {
+                "pstid": "p3nv0g0ceaa",
+                "uid": "gettr",
+                "translatedDate": 1753977906848,
+                "sourceLang": "en",
+                "targetLang": "fr",
+                "translatedPath": "https://cdn.gettr.com/translatepost/fr/p3nv0g0ceaa_1753977906563.json"
+            },
+            "ar": {
+                "pstid": "p3nv0g0ceaa",
+                "uid": "gettr",
+                "translatedDate": 1753978490485,
+                "sourceLang": "en",
+                "targetLang": "ar",
+                "translatedPath": "https://cdn.gettr.com/translatepost/ar/p3nv0g0ceaa_1753978490237.json"
+            },
+            "de": {
+                "pstid": "p3nv0g0ceaa",
+                "uid": "gettr",
+                "translatedDate": 1753979539049,
+                "sourceLang": "en",
+                "targetLang": "de",
+                "translatedPath": "https://cdn.gettr.com/translatepost/de/p3nv0g0ceaa_1753979538592.json"
+            },
+            "es": {
+                "pstid": "p3nv0g0ceaa",
+                "uid": "gettr",
+                "translatedDate": 1753980727730,
+                "sourceLang": "en",
+                "targetLang": "es",
+                "translatedPath": "https://cdn.gettr.com/translatepost/es/p3nv0g0ceaa_1753980727462.json"
+            },
+            "ja": {
+                "pstid": "p3nv0g0ceaa",
+                "uid": "gettr",
+                "translatedDate": 1753981607968,
+                "sourceLang": "en",
+                "targetLang": "ja",
+                "translatedPath": "https://cdn.gettr.com/translatepost/ja/p3nv0g0ceaa_1753981607595.json"
+            }
+        },
+        "lkbpst": 269,
+        "cm": 24,
+        "shbpst": 68,
+        "vfpst": 206
+    }
+]
